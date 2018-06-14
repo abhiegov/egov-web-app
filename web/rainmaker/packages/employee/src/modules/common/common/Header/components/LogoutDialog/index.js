@@ -1,5 +1,5 @@
 import React from "react";
-import { Dialog, Button } from "components";
+import { Dialog, Button } from "egov-common-components/UI";
 import Label from "egov-ui-kit/utils/translationNode";
 
 const styles = {

@@ -40,7 +40,7 @@ var _reactRedux = require("react-redux");
 
 var _commons = require("egov-ui-kit/utils/commons");
 
-var _components = require("components");
+var _components = require("egov-common-components/UI");
 
 var _arrowDropDown = require("material-ui/svg-icons/navigation/arrow-drop-down");
 

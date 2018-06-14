@@ -10,7 +10,7 @@ var _react2 = _interopRequireDefault(_react);
 
 var _reactRouter = require("react-router");
 
-var _components = require("components");
+var _components = require("egov-common-components/UI");
 
 var _logoWhite = require("assets/images/logo-white.png");
 

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import classnames from "classnames";
 import { withRouter } from "react-router";
 import { connect } from "react-redux";
-import { Toast, Drawer, Image } from "components";
+import { Toast, Drawer, Image } from "egov-common-components/UI";
 import { addBodyClass } from "egov-ui-kit/utils/commons";
 import { fetchCurrentLocation, fetchLocalizationLabel, toggleSnackbarAndSetText, setRoute } from "egov-ui-kit/redux/app/actions";
 import { fetchMDMSData } from "egov-ui-kit/redux/common/actions";

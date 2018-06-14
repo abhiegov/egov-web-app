@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Button, Icon } from "components";
+import { Button, Icon } from "egov-common-components/UI";
 import Label from "egov-ui-kit/utils/translationNode";
 import SuccessMessage from "modules/common/common/SuccessMessage/components/successmessage";
 

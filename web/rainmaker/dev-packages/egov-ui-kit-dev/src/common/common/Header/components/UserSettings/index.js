@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import { DropDown, Icon, Image } from "components";
+import { DropDown, Icon, Image } from "egov-common-components/UI";
 import person from "egov-ui-kit/assets/images/faceTwo.jpg";
 
 import "./index.css";

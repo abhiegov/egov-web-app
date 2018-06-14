@@ -1,5 +1,5 @@
 import React from "react";
-import { TextField, MobileNumberField, SingleCheckbox, DropDown } from "components";
+import { TextField, MobileNumberField, SingleCheckbox, DropDown } from "egov-common-components/UI";
 
 const Field = ({ fieldKey, handleFieldChange, field = {}, ...rest }) => {
   const renderField = () => {

@@ -1,5 +1,7 @@
 import React from "react";
 import { connect } from "react-redux";
+import { Drawer, Icon } from "egov-common-components/UI";
+import { Header, ActionMenu } from "egov-common-components/custom";
 
 const withoutAuthorization = (redirectionUrl) => (Component) => {
   class Wrapper extends React.Component {
@@ -9,7 +11,13 @@ const withoutAuthorization = (redirectionUrl) => (Component) => {
       }
     }
     render() {
-      return <Component {...this.props} />;
+      return (
+        <div>
+          <Drawer />
+          <Component {...this.props} />
+          <ActionMenu actionList={[]} />
+        </div>
+      );
     }
   }
   const mapStateToProps = (state) => {

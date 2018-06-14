@@ -8,9 +8,9 @@ import { BrowserRouter as Router } from "react-router-dom";
 // sms listener
 import "./webview/sms";
 
-import App from "modules/App";
+import App from "./App";
 import store from "egov-ui-kit/redux/store";
-import theme from "./config/theme";
+import theme from "egov-ui-kit/config/theme";
 import injectTapEventPlugin from "react-tap-event-plugin";
 //Web font loader
 import WebFont from "webfontloader";

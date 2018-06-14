@@ -5,7 +5,7 @@ import formHoc from "hocs/form";
 import { initForm, resetForm } from "egov-ui-kit/redux/form/actions";
 import { fetchSpecs } from "egov-ui-kit/redux/mdms/actions";
 import { upperCaseFirst } from "egov-ui-kit/utils/commons";
-import { Icon, Button } from "components";
+import { Icon, Button } from "egov-common-components/UI";
 import "./index.css";
 import MDMSFormUI from "./MDMSForm";
 import MDMSTableUI from "./MDMSTable";

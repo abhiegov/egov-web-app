@@ -113,7 +113,7 @@ const transformer = (formKey, form = {}, state = {}) => {
     },
     employeeOTP: () => {
       const formData = prepareFormData(form);
-      const commonConfig = require("config/common").default;
+      const commonConfig = require("egov-ui-kit/config/common").default;
       formData.tenantId = commonConfig.tenantId;
       const { fields } = state.form.employeeForgotPasswd || {};
 

@@ -26,7 +26,7 @@ var _react2 = _interopRequireDefault(_react);
 
 var _reactRedux = require("react-redux");
 
-var _components = require("components");
+var _components = require("egov-common-components/UI");
 
 var _Location_pin = require("assets/Location_pin.svg");
 

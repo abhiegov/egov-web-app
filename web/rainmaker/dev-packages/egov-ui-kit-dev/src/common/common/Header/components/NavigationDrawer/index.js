@@ -1,5 +1,5 @@
 import React from "react";
-import { Image, Drawer, List } from "components";
+import { Image, Drawer, List } from "egov-common-components/UI";
 import UserProfile from "./UserProfile";
 import LanguageSelection from "./LanguageSelection";
 import menuItems from "./menuItems";

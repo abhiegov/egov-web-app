@@ -1,5 +1,5 @@
 import React from "react";
-import { Dialog } from "components";
+import { Dialog } from "egov-common-components/UI";
 
 const MDMSForm = ({ open, handleClose, children, title }) => {
   return (

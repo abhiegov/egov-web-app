@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "components";
+import { Button } from "egov-common-components/UI";
 import ImageUpload from "modules/common/common/ImageUpload";
 import TextArea from "modules/common/pgr/ReOpenComplaint/components/TextArea";
 

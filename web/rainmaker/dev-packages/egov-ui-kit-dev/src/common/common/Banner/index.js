@@ -1,6 +1,6 @@
 import React from "react";
 import { withRouter } from "react-router";
-import { Image, Icon } from "components";
+import { Image, Icon } from "egov-common-components/UI";
 import logo from "egov-ui-kit/assets/images/logo-white.png";
 import "./index.css";
 

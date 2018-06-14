@@ -1,5 +1,5 @@
 import React from "react";
-import { Icon, TextArea, Image } from "components";
+import { Icon, TextArea, Image } from "egov-common-components/UI";
 import Label from "egov-ui-kit/utils/translationNode";
 import emptyFace from "egov-ui-kit/assets/images/download.png";
 import "./index.css";

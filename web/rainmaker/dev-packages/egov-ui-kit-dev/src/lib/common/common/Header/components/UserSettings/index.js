@@ -24,7 +24,7 @@ var _react = require("react");
 
 var _react2 = _interopRequireDefault(_react);
 
-var _components = require("components");
+var _components = require("egov-common-components/UI");
 
 var _faceTwo = require("assets/images/faceTwo.jpg");
 

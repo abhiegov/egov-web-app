@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "components";
+import { Button } from "egov-common-components/UI";
 import "./index.css";
 
 const ButtonComponent = ({ label, onClick }) => {

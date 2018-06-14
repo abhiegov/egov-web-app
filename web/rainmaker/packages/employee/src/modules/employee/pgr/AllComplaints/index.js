@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Tabs } from "components";
+import { Tabs } from "egov-common-components/UI";
 import Screen from "modules/common/common/Screen";
 import Complaints from "modules/common/pgr/Complaints";
 import { fetchComplaints } from "egov-ui-kit/redux/complaints/actions";

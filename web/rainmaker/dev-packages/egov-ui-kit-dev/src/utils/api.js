@@ -1,7 +1,7 @@
 import axios from "axios";
 import { prepareForm, fetchFromLocalStorage, addQueryArg } from "./commons";
 import some from "lodash/some";
-import commonConfig from "config/common.js";
+import commonConfig from "egov-ui-kit/config/common.js";
 
 const instance = axios.create({
   baseURL: window.location.origin,

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import formHoc from "hocs/form";
-import { Card, List, Icon, Image } from "components";
+import { Card, List, Icon, Image } from "egov-common-components/UI";
 import Label from "egov-ui-kit/utils/translationNode";
 import WriteComment from "../WriteComment";
 import Avatar from "material-ui/Avatar";

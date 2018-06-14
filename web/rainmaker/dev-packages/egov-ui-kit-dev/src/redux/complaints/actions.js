@@ -3,7 +3,7 @@ import * as commonActions from "../common/actions";
 import { COMPLAINT, CATEGORY } from "egov-ui-kit/utils/endPoints";
 import { httpRequest } from "egov-ui-kit/utils/api";
 import { difference, uniq } from "lodash";
-import commonConfig from "config/common.js";
+import commonConfig from "egov-ui-kit/config/common.js";
 
 //checking users there in action history
 const checkUsers = (dispatch, state, actionHistory, hasUsers) => {

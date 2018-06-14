@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "components";
+import { Button } from "egov-common-components/UI";
 
 const hintStyle = {
   color: "#b3b3b3",

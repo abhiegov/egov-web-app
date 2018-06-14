@@ -1,0 +1,15 @@
+{
+  "name": "egov-common-components",
+  "version": "1.0.0",
+  "description": "egov-common-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egov-ui-kit": "^0.0.1",
+    "react-router-dom": "^4.3.1"
+  }
+}

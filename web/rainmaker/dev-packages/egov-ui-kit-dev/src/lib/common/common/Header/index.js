@@ -34,7 +34,7 @@ var _IconButton = require("material-ui/IconButton");
 
 var _IconButton2 = _interopRequireDefault(_IconButton);
 
-var _components = require("components");
+var _components = require("egov-common-components/UI");
 
 var _AppBar = require("./components/AppBar");
 

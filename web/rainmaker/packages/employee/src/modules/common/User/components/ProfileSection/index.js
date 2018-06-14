@@ -1,5 +1,5 @@
 import React from "react";
-import { ProfileSection } from "components";
+import { ProfileSection } from "egov-common-components/UI";
 
 const imgStyle = { width: 127, height: 127 };
 

@@ -30,7 +30,7 @@ var _form = require("hocs/form");
 
 var _form2 = _interopRequireDefault(_form);
 
-var _components = require("components");
+var _components = require("egov-common-components/UI");
 
 var _translationNode = require("egov-ui-kit/utils/translationNode");
 

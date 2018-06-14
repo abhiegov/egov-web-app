@@ -1,6 +1,6 @@
 import React from "react";
 import SearchIcon from "material-ui/svg-icons/action/search";
-import { Icon, Label, Button, Dialog, TextField, TextFieldIcon } from "components";
+import { Icon, Label, Button, Dialog, TextField, TextFieldIcon } from "egov-common-components/UI";
 import ReactTable from "react-table";
 import "react-table/react-table.css";
 

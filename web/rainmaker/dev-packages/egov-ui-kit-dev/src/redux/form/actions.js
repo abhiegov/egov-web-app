@@ -4,7 +4,7 @@ import { httpRequest, loginRequest, uploadFile } from "egov-ui-kit/utils/api";
 import { prepareFormData } from "egov-ui-kit/utils/commons";
 import { FILE_UPLOAD } from "egov-ui-kit/utils/endPoints";
 import { validateForm } from "./utils";
-import transformer from "config/forms/transformers";
+import transformer from "egov-ui-kit/config/forms/transformers";
 
 export const initForm = (form, recordData) => {
   return {

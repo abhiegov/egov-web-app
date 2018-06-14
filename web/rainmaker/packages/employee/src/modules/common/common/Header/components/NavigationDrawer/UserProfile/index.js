@@ -1,5 +1,5 @@
 import React from "react";
-import { ProfileSection } from "components";
+import { ProfileSection } from "egov-common-components/UI";
 import { getCityNameByCode } from "egov-ui-kit/utils/commons";
 
 import emptyFace from "assets/images/download.png";

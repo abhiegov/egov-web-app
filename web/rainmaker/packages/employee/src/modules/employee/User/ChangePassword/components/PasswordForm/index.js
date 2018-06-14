@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, TextField } from "components";
+import { Button, TextField } from "egov-common-components/UI";
 import "./index.css";
 
 const PasswordForm = ({ handleFieldChange, toggleSnackbarAndSetText, form }) => {

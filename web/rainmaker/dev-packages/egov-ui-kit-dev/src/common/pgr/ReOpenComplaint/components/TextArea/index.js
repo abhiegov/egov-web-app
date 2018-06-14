@@ -1,5 +1,5 @@
 import React from "react";
-import { TextArea } from "components";
+import { TextArea } from "egov-common-components/UI";
 
 const hintStyle = {
   color: "#b3b3b3",

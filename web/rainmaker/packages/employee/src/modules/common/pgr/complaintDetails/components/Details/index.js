@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Card, Image, Icon, Button } from "components";
+import { Card, Image, Icon, Button } from "egov-common-components/UI";
 import Label from "egov-ui-kit/utils/translationNode";
 import "./index.css";
 

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { ButtonGroup } from "components";
+import { ButtonGroup } from "egov-common-components/UI";
 
 class LanguageSelection extends Component {
   state = {

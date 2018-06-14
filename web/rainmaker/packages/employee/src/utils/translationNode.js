@@ -1,7 +1,7 @@
 import React from "react";
 import { connect } from "react-redux";
 import { getTranslatedLabel } from "./commons";
-import { Label } from "components";
+import { Label } from "egov-common-components/UI";
 
 const mapStateToProps = (state, ownProps) => {
   const { label, ...rest } = ownProps;

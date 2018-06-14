@@ -3,7 +3,7 @@ import Details from "modules/common/pgr/complaintDetails/components/Details";
 import ComplaintTimeLine from "modules/common/pgr/complaintDetails/components/ComplaintTimeLine";
 import Comments from "modules/common/pgr/complaintDetails/components/Comments";
 import Actions from "modules/common/pgr/complaintDetails/components/ActionButton";
-import { Icon, MapLocation } from "components";
+import { Icon, MapLocation } from "egov-common-components/UI";
 import Screen from "modules/common/common/Screen";
 import pinIcon from "assets/Location_pin.svg";
 import {

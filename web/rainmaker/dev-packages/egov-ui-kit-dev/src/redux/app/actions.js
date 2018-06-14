@@ -2,7 +2,7 @@ import * as actionTypes from "./actionTypes";
 import { LOCALATION } from "egov-ui-kit/utils/endPoints";
 import { httpRequest } from "egov-ui-kit/utils/api";
 import { getCurrentAddress } from "egov-ui-kit/utils/commons";
-import commonConfig from "config/common";
+import commonConfig from "egov-ui-kit/config/common";
 
 export const setRoute = (route) => {
   return { type: actionTypes.SET_ROUTE, route };

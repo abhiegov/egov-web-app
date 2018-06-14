@@ -24,13 +24,13 @@ var _react = require("react");
 
 var _react2 = _interopRequireDefault(_react);
 
-var _components = require("components");
+var _components = require("egov-common-components/UI");
 
 var _translationNode = require("egov-ui-kit/utils/translationNode");
 
 var _translationNode2 = _interopRequireDefault(_translationNode);
 
-var _common = require("modules/common");
+var _common = require("egov-common-components/custom");
 
 require("./index.css");
 
